@@ -1,0 +1,40 @@
+/* *{
+    margin: 3px;
+    /* padding: 0px; */
+/* } */ 
+
+img {
+
+    /* background-image: url(adobo.png);
+    background-size: cover; */
+    width: 300px;
+    border-radius: 100px;
+    float: right;
+    margin-right: 10px;
+}
+
+table, th, td{
+    border: 1px solid;
+}
+
+h1{
+    text-align: center;
+    border-style: solid;
+    border-radius: 10px;
+    width: 25%;
+}
+h2{
+    text-align: left;
+    border-style: solid;
+    border-radius: 10px;
+    width: 25%;
+}
+
+h3{
+    text-align: left;
+    border-style: solid;
+    border-radius: 10px;
+    width: 25%;
+}
+
+
